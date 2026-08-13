@@ -1,0 +1,12 @@
+---
+:id: 412246279
+:submitters:
+- :name: Khadija Azhar
+  :email: khadijaa@gwu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-05-07 17:09:51.336069000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-05-07 10:09:51.336069000 Z
+:status: processed
+:score: 89.0

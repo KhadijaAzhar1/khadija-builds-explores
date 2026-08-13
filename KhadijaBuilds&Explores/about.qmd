@@ -1,0 +1,20 @@
+---
+title: "Khadija Azhar"
+image: linkedin profile.jpeg
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/khadija-azhar-gwu/
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+About this blog:
+---
+Hi! I'm Khadija, an Information Systems and Data Science student at GW with a minor in Economics. I like using data and technology to figure out why things work the way they do, whether that's modeling solar energy growth, analyzing markets, or figuring out how errors move through a quantum circuit.
+
+This started as my first data science blog and has turned into a place where I keep the projects, research, and random questions I get curious enough to investigate.

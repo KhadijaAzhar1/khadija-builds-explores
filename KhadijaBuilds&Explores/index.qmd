@@ -1,0 +1,15 @@
+---
+title: "Khadija Builds & Explores"
+author: "Khadija Azhar"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+A collection of things I’ve built, researched, and gotten curious about across data, technology, and beyond!

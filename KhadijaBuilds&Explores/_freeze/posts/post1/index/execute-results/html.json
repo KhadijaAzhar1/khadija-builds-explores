@@ -1,0 +1,15 @@
+{
+  "hash": "10175d998a30133bd118ef06914db824",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My First Post\"\nauthor: \"Khadija Azhar\"\ndate: \"2026-01-22\"\n\n---\n\n# Introduction\n\nHenna is a huge part of my culture and is a natural dye that has been used for centuries across many cultures for art, celebration, and symbolism in religious and cultural settings.\n\n## What Plant does Henna Come?\nHenna comes from the leaves of the *Lawsonia inermis* plant. This is a plant that has been used in mnay regions including South Asia, the Middle East, and North Africa.\n\nHenna is **deeply symbolic**, and it can be associated with *history, art, and tradition*.\n\n### Common Uses of Henna\n\n- Weddings\n- Religious celebrations\n- Festivals\n- Personal expression/ artistic display\n\n### Why Henna Matters To Me\n\n1. It allows my to boldly display my cultural identity.\n2. It connects me to my family and the woman in my family as a bonding activity.\n3. It allows for varaition in style, shapes, and colors. \n\nThis is a bit about the history of henna:\n[History of Henna](https://www.nhm.ac.uk/discover/the-henna-plant-transcending-time-religion-and-culture.html)\n\n `Lawsonia inermis`\n\n![Henna design](mehndi-designs.jpeg)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#Estimated cost of henna cone!\nhenna_powder <- 2.50\nessential_oils <- 1.75\nsugar_lemon <- 0.75\ncellophane_cone <- 0.50\nlabor_time <- 0.5\nhourly_rate <- 20.00\n\ntotal_cost <- henna_powder + essential_oils + sugar_lemon + cellophane_cone + (labor_time * hourly_rate)\nsprintf(\"$%.2f\", total_cost)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"$15.50\"\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

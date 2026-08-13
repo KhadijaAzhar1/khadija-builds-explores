@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Khadija Builds & Explores"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+         href:https://www.linkedin.com/in/khadija-azhar-gwu
+      - icon: github
+        href: https://github.com/
+      
+format:
+  html:
+    theme:
+      - journal
+      - brand
+    css: styles.css
+
+
+
